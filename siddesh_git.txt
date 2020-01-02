@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ------------VERSION 3--------
+=======
+-------VERSION 2-------
+>>>>>>> bugfix
 hi welcome to git this is Siddesh
 
 From Mumbai ,working as devops engineer
